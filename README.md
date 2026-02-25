@@ -328,7 +328,7 @@ api.proxy  >  环境变量 TWS_PROXY  >  acc.proxy（账号级代理）
 | `user_tweets` | 约 3200 条 |
 | `user_tweets_and_replies` | 约 3200 条 |
 
-### 可行性评估（针对任务 B0）
+### 可行性评估
 
 | 评估维度 | 结论 |
 |---------|------|
